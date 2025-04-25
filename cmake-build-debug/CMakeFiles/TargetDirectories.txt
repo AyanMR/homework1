@@ -1,5 +1,8 @@
+C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/qt6_demo.dir
 C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/homework1.dir
 C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/qt6_demo_autogen_timestamp_deps.dir
+C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/qt6_demo_autogen.dir
 C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/homework1_autogen_timestamp_deps.dir
 C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/homework1_autogen.dir

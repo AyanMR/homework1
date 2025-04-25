@@ -41,6 +41,98 @@ include CMakeFiles\rules.ninja
 
 cmake_ninja_workdir = C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\
 # =============================================================================
+# Object build statements for EXECUTABLE target qt6_demo
+
+
+#############################################
+# Order-only phony target for qt6_demo
+
+build cmake_object_order_depends_target_qt6_demo: phony || qt6_demo_autogen qt6_demo_autogen\6WJNPILU4A\qrc_resources.cpp qt6_demo_autogen\mocs_compilation.cpp qt6_demo_autogen\timestamp qt6_demo_autogen_timestamp_deps
+
+build CMakeFiles\qt6_demo.dir\qt6_demo_autogen\mocs_compilation.cpp.obj: CXX_COMPILER__qt6_demo_unscanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\qt6_demo_autogen\mocs_compilation.cpp || cmake_object_order_depends_target_qt6_demo
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\qt6_demo_autogen\include -external:W0
+  OBJECT_DIR = CMakeFiles\qt6_demo.dir
+  OBJECT_FILE_DIR = CMakeFiles\qt6_demo.dir\qt6_demo_autogen
+  TARGET_COMPILE_PDB = CMakeFiles\qt6_demo.dir\
+  TARGET_PDB = qt6_demo.pdb
+
+build CMakeFiles\qt6_demo.dir\main.cpp.obj.ddi: CXX_SCAN__qt6_demo_Debug C$:\Users\AyanMR\CLionProjects\homework1\main.cpp || cmake_object_order_depends_target_qt6_demo
+  DEP_FILE = CMakeFiles\qt6_demo.dir\main.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\qt6_demo.dir\main.cpp.obj.ddi
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\qt6_demo_autogen\include -external:W0
+  OBJ_FILE = CMakeFiles\qt6_demo.dir\main.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\qt6_demo.dir\main.cpp.obj.ddi.i
+
+build CMakeFiles\qt6_demo.dir\main.cpp.obj: CXX_COMPILER__qt6_demo_scanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\main.cpp | CMakeFiles\qt6_demo.dir\main.cpp.obj.modmap || cmake_object_order_depends_target_qt6_demo CMakeFiles\qt6_demo.dir\CXX.dd
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\qt6_demo.dir\main.cpp.obj.modmap
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\qt6_demo_autogen\include -external:W0
+  OBJECT_DIR = CMakeFiles\qt6_demo.dir
+  OBJECT_FILE_DIR = CMakeFiles\qt6_demo.dir
+  TARGET_COMPILE_PDB = CMakeFiles\qt6_demo.dir\
+  TARGET_PDB = qt6_demo.pdb
+  dyndep = CMakeFiles/qt6_demo.dir/CXX.dd
+
+build CMakeFiles\qt6_demo.dir\src\mainwindow.cpp.obj.ddi: CXX_SCAN__qt6_demo_Debug C$:\Users\AyanMR\CLionProjects\homework1\src\mainwindow.cpp || cmake_object_order_depends_target_qt6_demo
+  DEP_FILE = CMakeFiles\qt6_demo.dir\src\mainwindow.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\qt6_demo.dir\src\mainwindow.cpp.obj.ddi
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\qt6_demo_autogen\include -external:W0
+  OBJ_FILE = CMakeFiles\qt6_demo.dir\src\mainwindow.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\qt6_demo.dir\src\mainwindow.cpp.obj.ddi.i
+
+build CMakeFiles\qt6_demo.dir\src\mainwindow.cpp.obj: CXX_COMPILER__qt6_demo_scanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\src\mainwindow.cpp | CMakeFiles\qt6_demo.dir\src\mainwindow.cpp.obj.modmap || cmake_object_order_depends_target_qt6_demo CMakeFiles\qt6_demo.dir\CXX.dd
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\qt6_demo.dir\src\mainwindow.cpp.obj.modmap
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\qt6_demo_autogen\include -external:W0
+  OBJECT_DIR = CMakeFiles\qt6_demo.dir
+  OBJECT_FILE_DIR = CMakeFiles\qt6_demo.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\qt6_demo.dir\
+  TARGET_PDB = qt6_demo.pdb
+  dyndep = CMakeFiles/qt6_demo.dir/CXX.dd
+
+build CMakeFiles\qt6_demo.dir\resource\logo.rc.res: RC_COMPILER__qt6_demo_unscanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\resource\logo.rc || cmake_object_order_depends_target_qt6_demo
+  DEP_FILE = CMakeFiles\qt6_demo.dir\resource\logo.rc.res.d
+  FLAGS = -DWIN32 -D_DEBUG
+  INCLUDES = -I C:\Users\AyanMR\CLionProjects\homework1\include -I C:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\qt6_demo_autogen\include
+  OBJECT_DIR = CMakeFiles\qt6_demo.dir
+  OBJECT_FILE_DIR = CMakeFiles\qt6_demo.dir\resource
+  TARGET_COMPILE_PDB = CMakeFiles\qt6_demo.dir\
+  TARGET_PDB = qt6_demo.pdb
+
+build CMakeFiles\qt6_demo.dir\qt6_demo_autogen\6WJNPILU4A\qrc_resources.cpp.obj: CXX_COMPILER__qt6_demo_unscanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\qt6_demo_autogen\6WJNPILU4A\qrc_resources.cpp || cmake_object_order_depends_target_qt6_demo
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\qt6_demo_autogen\include -external:W0
+  OBJECT_DIR = CMakeFiles\qt6_demo.dir
+  OBJECT_FILE_DIR = CMakeFiles\qt6_demo.dir\qt6_demo_autogen\6WJNPILU4A
+  TARGET_COMPILE_PDB = CMakeFiles\qt6_demo.dir\
+  TARGET_PDB = qt6_demo.pdb
+
+build CMakeFiles\qt6_demo.dir\CXX.dd | C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\CMakeFiles\qt6_demo.dir\CXXModules.json CMakeFiles\qt6_demo.dir\main.cpp.obj.modmap CMakeFiles\qt6_demo.dir\src\mainwindow.cpp.obj.modmap: CXX_DYNDEP__qt6_demo_Debug CMakeFiles\qt6_demo.dir\main.cpp.obj.ddi CMakeFiles\qt6_demo.dir\src\mainwindow.cpp.obj.ddi | C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\CMakeFiles\qt6_demo.dir\CXXDependInfo.json
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target qt6_demo
+
+
+#############################################
+# Link the executable qt6_demo.exe
+
+build qt6_demo.exe: CXX_EXECUTABLE_LINKER__qt6_demo_Debug CMakeFiles\qt6_demo.dir\qt6_demo_autogen\mocs_compilation.cpp.obj CMakeFiles\qt6_demo.dir\main.cpp.obj CMakeFiles\qt6_demo.dir\src\mainwindow.cpp.obj CMakeFiles\qt6_demo.dir\resource\logo.rc.res CMakeFiles\qt6_demo.dir\qt6_demo_autogen\6WJNPILU4A\qrc_resources.cpp.obj || qt6_demo_autogen qt6_demo_autogen_timestamp_deps
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\qt6_demo.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\qt6_demo.dir\
+  TARGET_FILE = qt6_demo.exe
+  TARGET_IMPLIB = qt6_demo.lib
+  TARGET_PDB = qt6_demo.pdb
+
+# =============================================================================
 # Object build statements for EXECUTABLE target homework1
 
 
@@ -52,7 +144,7 @@ build cmake_object_order_depends_target_homework1: phony || homework1_autogen ho
 build CMakeFiles\homework1.dir\homework1_autogen\mocs_compilation.cpp.obj: CXX_COMPILER__homework1_unscanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\mocs_compilation.cpp || cmake_object_order_depends_target_homework1
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi -Zc:__cplusplus -permissive- -utf-8
-  INCLUDES = -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
   OBJECT_DIR = CMakeFiles\homework1.dir
   OBJECT_FILE_DIR = CMakeFiles\homework1.dir\homework1_autogen
   TARGET_COMPILE_PDB = CMakeFiles\homework1.dir\
@@ -63,7 +155,7 @@ build CMakeFiles\homework1.dir\main.cpp.obj.ddi: CXX_SCAN__homework1_Debug C$:\U
   DEP_FILE = CMakeFiles\homework1.dir\main.cpp.obj.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles\homework1.dir\main.cpp.obj.ddi
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi -Zc:__cplusplus -permissive- -utf-8
-  INCLUDES = -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
   OBJ_FILE = CMakeFiles\homework1.dir\main.cpp.obj
   PREPROCESSED_OUTPUT_FILE = CMakeFiles\homework1.dir\main.cpp.obj.ddi.i
 
@@ -71,7 +163,7 @@ build CMakeFiles\homework1.dir\main.cpp.obj: CXX_COMPILER__homework1_scanned_Deb
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DYNDEP_MODULE_MAP_FILE = CMakeFiles\homework1.dir\main.cpp.obj.modmap
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi -Zc:__cplusplus -permissive- -utf-8
-  INCLUDES = -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
   OBJECT_DIR = CMakeFiles\homework1.dir
   OBJECT_FILE_DIR = CMakeFiles\homework1.dir
   TARGET_COMPILE_PDB = CMakeFiles\homework1.dir\
@@ -83,7 +175,7 @@ build CMakeFiles\homework1.dir\src\mainwindow.cpp.obj.ddi: CXX_SCAN__homework1_D
   DEP_FILE = CMakeFiles\homework1.dir\src\mainwindow.cpp.obj.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles\homework1.dir\src\mainwindow.cpp.obj.ddi
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi -Zc:__cplusplus -permissive- -utf-8
-  INCLUDES = -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
   OBJ_FILE = CMakeFiles\homework1.dir\src\mainwindow.cpp.obj
   PREPROCESSED_OUTPUT_FILE = CMakeFiles\homework1.dir\src\mainwindow.cpp.obj.ddi.i
 
@@ -91,7 +183,7 @@ build CMakeFiles\homework1.dir\src\mainwindow.cpp.obj: CXX_COMPILER__homework1_s
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DYNDEP_MODULE_MAP_FILE = CMakeFiles\homework1.dir\src\mainwindow.cpp.obj.modmap
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi -Zc:__cplusplus -permissive- -utf-8
-  INCLUDES = -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
   OBJECT_DIR = CMakeFiles\homework1.dir
   OBJECT_FILE_DIR = CMakeFiles\homework1.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\homework1.dir\
@@ -102,7 +194,7 @@ build CMakeFiles\homework1.dir\resource\logo.rc.res: RC_COMPILER__homework1_unsc
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\homework1.dir\resource\logo.rc.res.d
   FLAGS = -DWIN32 -D_DEBUG
-  INCLUDES = -I C:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -I C:\Qt\6.5.3\msvc2019_64\include\QtCore -I C:\Qt\6.5.3\msvc2019_64\include -I C:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -I C:\Qt\6.5.3\msvc2019_64\include\QtGui -I C:\Qt\6.5.3\msvc2019_64\include\QtWidgets
+  INCLUDES = -I C:\Users\AyanMR\CLionProjects\homework1\include -I C:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -I C:\Qt\6.5.3\msvc2019_64\include\QtCore -I C:\Qt\6.5.3\msvc2019_64\include -I C:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -I C:\Qt\6.5.3\msvc2019_64\include\QtGui -I C:\Qt\6.5.3\msvc2019_64\include\QtWidgets
   OBJECT_DIR = CMakeFiles\homework1.dir
   OBJECT_FILE_DIR = CMakeFiles\homework1.dir\resource
   TARGET_COMPILE_PDB = CMakeFiles\homework1.dir\
@@ -111,7 +203,7 @@ build CMakeFiles\homework1.dir\resource\logo.rc.res: RC_COMPILER__homework1_unsc
 build CMakeFiles\homework1.dir\homework1_autogen\6WJNPILU4A\qrc_resources.cpp.obj: CXX_COMPILER__homework1_unscanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\6WJNPILU4A\qrc_resources.cpp || cmake_object_order_depends_target_homework1
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi -Zc:__cplusplus -permissive- -utf-8
-  INCLUDES = -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:W0
   OBJECT_DIR = CMakeFiles\homework1.dir
   OBJECT_FILE_DIR = CMakeFiles\homework1.dir\homework1_autogen\6WJNPILU4A
   TARGET_COMPILE_PDB = CMakeFiles\homework1.dir\
@@ -164,6 +256,18 @@ build rebuild_cache: phony CMakeFiles\rebuild_cache.util
 
 
 #############################################
+# Utility command for qt6_demo_autogen_timestamp_deps
+
+build qt6_demo_autogen_timestamp_deps: phony
+
+
+#############################################
+# Utility command for qt6_demo_autogen
+
+build qt6_demo_autogen: phony CMakeFiles\qt6_demo_autogen qt6_demo_autogen\include\form\ui_mainwindow.h qt6_demo_autogen\timestamp qt6_demo_autogen\mocs_compilation.cpp qt6_demo_autogen_timestamp_deps
+
+
+#############################################
 # Utility command for homework1_autogen_timestamp_deps
 
 build homework1_autogen_timestamp_deps: phony
@@ -173,6 +277,26 @@ build homework1_autogen_timestamp_deps: phony
 # Utility command for homework1_autogen
 
 build homework1_autogen: phony CMakeFiles\homework1_autogen homework1_autogen\include\form\ui_mainwindow.h homework1_autogen\timestamp homework1_autogen\mocs_compilation.cpp homework1_autogen_timestamp_deps
+
+
+#############################################
+# Custom command for qt6_demo_autogen\timestamp
+
+build qt6_demo_autogen\timestamp qt6_demo_autogen\mocs_compilation.cpp | ${cmake_ninja_workdir}qt6_demo_autogen\timestamp ${cmake_ninja_workdir}qt6_demo_autogen\mocs_compilation.cpp: CUSTOM_COMMAND C$:\Qt\6.5.3\msvc2019_64\.\bin\moc.exe C$:\Qt\6.5.3\msvc2019_64\.\bin\uic.exe || qt6_demo_autogen_timestamp_deps
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -E cmake_autogen C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/qt6_demo_autogen.dir/AutogenInfo.json Debug && "C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/qt6_demo_autogen/timestamp && "C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -E cmake_transform_depfile Ninja gccdepfile C:/Users/AyanMR/CLionProjects/homework1 C:/Users/AyanMR/CLionProjects/homework1 C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/qt6_demo_autogen/deps C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/d/944b89c543b50f013b851bf46df5d0d48caf9c2f810280214a634ef3736db304.d"
+  DESC = Automatic MOC and UIC for target qt6_demo
+  depfile = CMakeFiles\d\944b89c543b50f013b851bf46df5d0d48caf9c2f810280214a634ef3736db304.d
+  deps = gcc
+  restat = 1
+
+
+#############################################
+# Custom command for qt6_demo_autogen\6WJNPILU4A\qrc_resources.cpp
+
+build qt6_demo_autogen\6WJNPILU4A\qrc_resources.cpp | ${cmake_ninja_workdir}qt6_demo_autogen\6WJNPILU4A\qrc_resources.cpp: CUSTOM_COMMAND C$:\Users\AyanMR\CLionProjects\homework1\resource\resources.qrc CMakeFiles\qt6_demo_autogen.dir\AutoRcc_resources_6WJNPILU4A_Info.json C$:\Users\AyanMR\CLionProjects\homework1\resource\logo.png C$:\Qt\6.5.3\msvc2019_64\.\bin\rcc.exe C$:\Qt\6.5.3\msvc2019_64\.\bin\rcc.exe || qt6_demo_autogen qt6_demo_autogen_timestamp_deps
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -E cmake_autorcc C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/qt6_demo_autogen.dir/AutoRcc_resources_6WJNPILU4A_Info.json Debug"
+  DESC = Automatic RCC for resource/resources.qrc
+  restat = 1
 
 
 #############################################
@@ -196,6 +320,12 @@ build homework1_autogen\6WJNPILU4A\qrc_resources.cpp | ${cmake_ninja_workdir}hom
 
 
 #############################################
+# Phony custom command for CMakeFiles\qt6_demo_autogen
+
+build CMakeFiles\qt6_demo_autogen qt6_demo_autogen\include\form\ui_mainwindow.h | ${cmake_ninja_workdir}CMakeFiles\qt6_demo_autogen ${cmake_ninja_workdir}qt6_demo_autogen\include\form\ui_mainwindow.h: phony qt6_demo_autogen\timestamp || qt6_demo_autogen_timestamp_deps
+
+
+#############################################
 # Phony custom command for CMakeFiles\homework1_autogen
 
 build CMakeFiles\homework1_autogen homework1_autogen\include\form\ui_mainwindow.h | ${cmake_ninja_workdir}CMakeFiles\homework1_autogen ${cmake_ninja_workdir}homework1_autogen\include\form\ui_mainwindow.h: phony homework1_autogen\timestamp || homework1_autogen_timestamp_deps
@@ -204,6 +334,8 @@ build CMakeFiles\homework1_autogen homework1_autogen\include\form\ui_mainwindow.
 # Target aliases.
 
 build homework1: phony homework1.exe
+
+build qt6_demo: phony qt6_demo.exe
 
 # =============================================================================
 # Folder targets.
@@ -220,7 +352,7 @@ build codegen: phony
 #############################################
 # Folder: C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug
 
-build all: phony homework1.exe
+build all: phony qt6_demo.exe homework1.exe
 
 # =============================================================================
 # Built-in targets

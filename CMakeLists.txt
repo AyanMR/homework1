@@ -14,6 +14,7 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
 FILE(GLOB_RECURSE RC_FILES ${CMAKE_CURRENT_SOURCE_DIR}/resource/*.rc)
 FILE(GLOB_RECURSE QRC_FILES ${CMAKE_CURRENT_SOURCE_DIR}/resource/*.qrc)
 FILE(GLOB_RECURSE UI_FILES ${CMAKE_CURRENT_SOURCE_DIR}/form/*.ui)
+FILE(GLOB_RECURSE HEADER_FILES ${CMAKE_CURRENT_SOURCE_DIR}/include/*.hpp)
 
 AUX_SOURCE_DIRECTORY(${PROJECT_SOURCE_DIR}/src SOURCE_FILES)
 
@@ -23,14 +24,15 @@ find_package(Qt6 COMPONENTS
         Widgets
         REQUIRED)
 
-ADD_EXECUTABLE(qt6_demo main.cpp ${SOURCE_FILES} ${RC_FILES} ${QRC_FILES} ${UI_FILES})
+ADD_EXECUTABLE(qt6_demo main.cpp ${SOURCE_FILES} ${RC_FILES} ${QRC_FILES} ${UI_FILES} ${HEADER_FILES})
 
 add_executable(homework1 main.cpp
         src/mainwindow.cpp
         include/mainwindow.h
         form/mainwindow.ui
         resource/logo.rc
-        resource/resources.qrc)
+        resource/resources.qrc
+)
 
 target_link_libraries(homework1
         Qt::Core

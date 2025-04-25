@@ -17,7 +17,8 @@
 			"set_target_properties",
 			"include",
 			"find_package",
-			"target_link_libraries"
+			"target_link_libraries",
+			"include_directories"
 		],
 		"files" : 
 		[
@@ -40,13 +41,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 19,
+				"line" : 29,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 13,
+				"line" : 21,
 				"parent" : 0
 			},
 			{
@@ -166,7 +167,13 @@
 			{
 				"command" : 4,
 				"file" : 0,
-				"line" : 26,
+				"line" : 37,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 13,
 				"parent" : 0
 			}
 		]
@@ -233,6 +240,10 @@
 			],
 			"includes" : 
 			[
+				{
+					"backtrace" : 26,
+					"path" : "C:/Users/AyanMR/CLionProjects/homework1/include"
+				},
 				{
 					"backtrace" : 0,
 					"isSystem" : true,
@@ -331,6 +342,10 @@
 			"includes" : 
 			[
 				{
+					"backtrace" : 26,
+					"path" : "C:/Users/AyanMR/CLionProjects/homework1/include"
+				},
+				{
 					"backtrace" : 0,
 					"isSystem" : true,
 					"path" : "C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/homework1_autogen/include"
@@ -371,11 +386,11 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "homework1_autogen::@6890427a1f51a3e7e1df"
+			"id" : "homework1_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "homework1_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+			"backtrace" : 0,
+			"id" : "homework1_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "homework1::@6890427a1f51a3e7e1df",
