@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\homework1.dir\\src\\mainwindow.cpp.obj",
+            "outputs": [
+                "C:\\Users\\AyanMR\\CLionProjects\\homework1\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\homework1.dir\\src\\mainwindow.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
