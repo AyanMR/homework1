@@ -6,17 +6,27 @@
 #define MAINWINDOW_H
 
 #include <QWidget>
-
+#include "edit.h"
+#include "ranking.h"
+#include <QPushButton>
+#include <QIcon>
 
 QT_BEGIN_NAMESPACE
-namespace Ui { class MainWindow; }
+
+namespace Ui
+{
+    class MainWindow;
+}
+
 QT_END_NAMESPACE
 
-class MainWindow : public QWidget {
-Q_OBJECT
+class MainWindow : public QWidget
+{
+    Q_OBJECT
 
 public:
     explicit MainWindow(QWidget *parent = nullptr);
+
     ~MainWindow() override;
 
 private:

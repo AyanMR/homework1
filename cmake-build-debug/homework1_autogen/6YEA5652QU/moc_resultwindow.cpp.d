@@ -1,4 +1,4 @@
-C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/homework1_autogen/6YEA5652QU/moc_mainwindow.cpp: C:/Users/AyanMR/CLionProjects/homework1/include/mainwindow.h \
+C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/homework1_autogen/6YEA5652QU/moc_resultwindow.cpp: C:/Users/AyanMR/CLionProjects/homework1/include/resultwindow.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtCore/q20memory.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtCore/q20type_traits.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtCore/qalgorithms.h \
@@ -107,7 +107,6 @@ C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/homework1_autogen/6YEA
   C:/Qt/6.5.3/msvc2019_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtCore/qxptype_traits.h \
-  C:/Qt/6.5.3/msvc2019_64/include/QtGui/QIcon \
   C:/Qt/6.5.3/msvc2019_64/include/QtGui/qaction.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtGui/qbitmap.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtGui/qbrush.h \
@@ -133,24 +132,9 @@ C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/homework1_autogen/6YEA
   C:/Qt/6.5.3/msvc2019_64/include/QtGui/qtransform.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtGui/qwindowdefs_win.h \
-  C:/Qt/6.5.3/msvc2019_64/include/QtSql/QSqlDatabase \
-  C:/Qt/6.5.3/msvc2019_64/include/QtSql/QSqlError \
-  C:/Qt/6.5.3/msvc2019_64/include/QtSql/QSqlQuery \
-  C:/Qt/6.5.3/msvc2019_64/include/QtSql/qsqldatabase.h \
-  C:/Qt/6.5.3/msvc2019_64/include/QtSql/qsqlerror.h \
-  C:/Qt/6.5.3/msvc2019_64/include/QtSql/qsqlquery.h \
-  C:/Qt/6.5.3/msvc2019_64/include/QtSql/qtsql-config.h \
-  C:/Qt/6.5.3/msvc2019_64/include/QtSql/qtsqlexports.h \
-  C:/Qt/6.5.3/msvc2019_64/include/QtSql/qtsqlglobal.h \
-  C:/Qt/6.5.3/msvc2019_64/include/QtWidgets/QPushButton \
   C:/Qt/6.5.3/msvc2019_64/include/QtWidgets/QWidget \
-  C:/Qt/6.5.3/msvc2019_64/include/QtWidgets/qabstractbutton.h \
-  C:/Qt/6.5.3/msvc2019_64/include/QtWidgets/qpushbutton.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h \
-  C:/Qt/6.5.3/msvc2019_64/include/QtWidgets/qwidget.h \
-  C:/Users/AyanMR/CLionProjects/homework1/include/edit.h \
-  C:/Users/AyanMR/CLionProjects/homework1/include/mainwindow.h \
-  C:/Users/AyanMR/CLionProjects/homework1/include/ranking.h
+  C:/Qt/6.5.3/msvc2019_64/include/QtWidgets/qwidget.h

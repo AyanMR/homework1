@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <author/>
+    <comment/>
+    <exportmacro/>
+    <class>Edit</class>
+    <widget class="QWidget" name="Edit">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>727</width>
+                <height>537</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>修改成绩</string>
+        </property>
+    </widget>
+    <pixmapfunction/>
+    <connections/>
+</ui>

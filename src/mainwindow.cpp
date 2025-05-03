@@ -6,16 +6,24 @@
 
 #include "../include/mainwindow.h"
 #include "ui_MainWindow.h"
-#include <QPushButton>
-#include <QIcon>
-
 
 MainWindow::MainWindow(QWidget *parent) : QWidget(parent), ui(new Ui::MainWindow)
 {
     this->setWindowIcon(QIcon(":/icon.png"));
     ui->setupUi(this);
-    connect(ui->pushButton, &QPushButton::clicked, []() {
-        qDebug() << "PUSHED";
+    connect(ui->pushButton, &QPushButton::clicked, this, [&]() {
+        if (ui->radioButton->isChecked())
+        {
+            Ranking *rankingWindow = new Ranking();
+            rankingWindow->show();
+            this->close();
+        }
+        else if (ui->radioButton_2->isChecked())
+        {
+            Edit *editWindow = new Edit();
+            editWindow->show();
+            this->close();
+        }
     });
 }
 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34a6c5f7-39c1-4500-896b-317da09445bd" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/students.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/QtSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/cache-v2-5851b6bfb4afceefa2b4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-42069483c2aaceb7a819.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5852d802ae1ba40c142e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/index-2025-04-25T16-44-02-0238.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/target-homework1-Debug-86f0de32c98a67b17943.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/target-qt6_demo-Debug-1199412ee537f7dc2f38.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/CXXDependInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/CXXDependInfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/homework1_autogen/6WJNPILU4A/qrc_resources.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/homework1_autogen/6WJNPILU4A/qrc_resources.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/homework1_autogen/mocs_compilation.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/homework1_autogen/mocs_compilation.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/src/mainwindow.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/src/mainwindow.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1_autogen.dir/AutogenInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1_autogen.dir/AutogenInfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1_autogen.dir/AutogenUsed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/homework1_autogen.dir/AutogenUsed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/qt6_demo_autogen.dir/AutogenInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/qt6_demo_autogen.dir/AutogenInfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/homework1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/homework1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/homework1.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/homework1.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/homework1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/homework1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/homework1_autogen/deps" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/homework1_autogen/deps" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2wESgZUaFemoEJmKxiWezzgkYVr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/AyanMR/CLionProjects/homework1/db"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/更改 SQL 方言": [
+      "SQLite"
+    ]
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="34a6c5f7-39c1-4500-896b-317da09445bd" name="更改" comment="" />
+      <created>1745605353883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745605353883</updated>
+    </task>
+    <servers />
+  </component>
+</project>

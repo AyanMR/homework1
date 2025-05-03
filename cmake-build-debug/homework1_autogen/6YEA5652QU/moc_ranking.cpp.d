@@ -1,4 +1,4 @@
-C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/homework1_autogen/6YEA5652QU/moc_mainwindow.cpp: C:/Users/AyanMR/CLionProjects/homework1/include/mainwindow.h \
+C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/homework1_autogen/6YEA5652QU/moc_ranking.cpp: C:/Users/AyanMR/CLionProjects/homework1/include/ranking.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtCore/q20memory.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtCore/q20type_traits.h \
   C:/Qt/6.5.3/msvc2019_64/include/QtCore/qalgorithms.h \
