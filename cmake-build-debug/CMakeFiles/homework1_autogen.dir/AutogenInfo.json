@@ -286,6 +286,35 @@
 		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-debug.cmake",
 		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-relwithdebinfo.cmake",
 		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6SqlConfigVersion.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6SqlConfigVersionImpl.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6SqlConfig.cmake",
+		"C:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6SqlDependencies.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6SqlTargets.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6SqlTargets-debug.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6SqlTargets-relwithdebinfo.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6SqlAdditionalTargetInfo.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6SqlVersionlessTargets.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6SqlPlugins.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginConfig.cmake",
+		"C:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginTargets.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginTargets-debug.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginTargets-relwithdebinfo.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginAdditionalTargetInfo.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginConfig.cmake",
+		"C:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginTargets.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginTargets-debug.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginTargets-relwithdebinfo.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginAdditionalTargetInfo.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginConfig.cmake",
+		"C:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets-debug.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets-relwithdebinfo.cmake",
+		"C:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginAdditionalTargetInfo.cmake",
 		"C:/Users/AyanMR/CLionProjects/homework1/resource/resources.qrc",
 		"C:/Users/AyanMR/CLionProjects/homework1/resource/resources.qrc"
 	],
@@ -296,9 +325,21 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/AyanMR/CLionProjects/homework1/include/edit.h",
+			"MU",
+			"6YEA5652QU/moc_edit.cpp",
+			null
+		],
+		[
 			"C:/Users/AyanMR/CLionProjects/homework1/include/mainwindow.h",
 			"MU",
 			"6YEA5652QU/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/AyanMR/CLionProjects/homework1/include/ranking.h",
+			"MU",
+			"6YEA5652QU/moc_ranking.cpp",
 			null
 		]
 	],
@@ -309,6 +350,7 @@
 	[
 		"QT_CORE_LIB",
 		"QT_GUI_LIB",
+		"QT_SQL_LIB",
 		"QT_WIDGETS_LIB",
 		"UNICODE",
 		"WIN32",
@@ -331,7 +373,8 @@
 		"C:/Qt/6.5.3/msvc2019_64/include",
 		"C:/Qt/6.5.3/msvc2019_64/mkspecs/win32-msvc",
 		"C:/Qt/6.5.3/msvc2019_64/include/QtGui",
-		"C:/Qt/6.5.3/msvc2019_64/include/QtWidgets"
+		"C:/Qt/6.5.3/msvc2019_64/include/QtWidgets",
+		"C:/Qt/6.5.3/msvc2019_64/include/QtSql"
 	],
 	"MOC_MACRO_NAMES" : 
 	[
@@ -348,9 +391,11 @@
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : 
 	[
-		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/qt6_demo_autogen/6WJNPILU4A/qrc_resources.cpp",
-		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/qt6_demo_autogen/include/form/ui_mainwindow.h",
-		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/qt6_demo_autogen/mocs_compilation.cpp"
+		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/main.cpp_autogen/6WJNPILU4A/qrc_resources.cpp",
+		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/main.cpp_autogen/include/form/ui_edit.h",
+		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/main.cpp_autogen/include/form/ui_mainwindow.h",
+		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/main.cpp_autogen/include/form/ui_ranking.h",
+		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/main.cpp_autogen/mocs_compilation.cpp"
 	],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 24,
@@ -363,19 +408,23 @@
 	"SOURCES" : 
 	[
 		[ "C:/Users/AyanMR/CLionProjects/homework1/main.cpp", "MU", null ],
+		[ "C:/Users/AyanMR/CLionProjects/homework1/src/edit.cpp", "MU", null ],
 		[
 			"C:/Users/AyanMR/CLionProjects/homework1/src/mainwindow.cpp",
 			"MU",
 			null
-		]
+		],
+		[ "C:/Users/AyanMR/CLionProjects/homework1/src/ranking.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [ "C:/Users/AyanMR/CLionProjects/homework1/form" ],
 	"UIC_SKIP" : 
 	[
-		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/qt6_demo_autogen/6WJNPILU4A/qrc_resources.cpp",
-		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/qt6_demo_autogen/include/form/ui_mainwindow.h",
-		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/qt6_demo_autogen/mocs_compilation.cpp"
+		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/main.cpp_autogen/6WJNPILU4A/qrc_resources.cpp",
+		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/main.cpp_autogen/include/form/ui_edit.h",
+		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/main.cpp_autogen/include/form/ui_mainwindow.h",
+		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/main.cpp_autogen/include/form/ui_ranking.h",
+		"C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/main.cpp_autogen/mocs_compilation.cpp"
 	],
 	"UIC_UI_FILES" : [],
 	"USE_BETTER_GRAPH" : false,

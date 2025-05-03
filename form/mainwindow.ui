@@ -1,32 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>MainWindow</class>
- <widget class="QWidget" name="MainWindow">
-  <property name="geometry">
-   <rect>
-    <x>0</x>
-    <y>0</y>
-    <width>870</width>
-    <height>569</height>
-   </rect>
-  </property>
-  <property name="windowTitle">
-   <string>JXUFE成绩系统</string>
-  </property>
-  <widget class="QPushButton" name="pushButton">
-   <property name="geometry">
-    <rect>
-     <x>400</x>
-     <y>480</y>
-     <width>75</width>
-     <height>24</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>查询</string>
-   </property>
-  </widget>
- </widget>
- <resources/>
- <connections/>
+    <class>MainWindow</class>
+    <widget class="QWidget" name="MainWindow">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>727</width>
+                <height>537</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>JXUFE成绩系统</string>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout">
+            <item>
+                <widget class="QRadioButton" name="radioButton">
+                    <property name="text">
+                        <string>排行榜</string>
+                    </property>
+                </widget>
+            </item>
+            <item>
+                <widget class="QRadioButton" name="radioButton_2">
+                    <property name="text">
+                        <string>修改成绩</string>
+                    </property>
+                </widget>
+            </item>
+            <item>
+                <widget class="QPushButton" name="pushButton">
+                    <property name="text">
+                        <string>确定</string>
+                    </property>
+                </widget>
+            </item>
+        </layout>
+    </widget>
+    <resources/>
+    <connections/>
 </ui>

@@ -20,7 +20,8 @@
 		"C:\\Qt\\6.5.3\\msvc2019_64\\include",
 		"C:\\Qt\\6.5.3\\msvc2019_64\\mkspecs\\win32-msvc",
 		"C:\\Qt\\6.5.3\\msvc2019_64\\include\\QtGui",
-		"C:\\Qt\\6.5.3\\msvc2019_64\\include\\QtWidgets"
+		"C:\\Qt\\6.5.3\\msvc2019_64\\include\\QtWidgets",
+		"C:\\Qt\\6.5.3\\msvc2019_64\\include\\QtSql"
 	],
 	"language" : "CXX",
 	"linked-target-dirs" : [],
@@ -32,10 +33,20 @@
 			"language" : "CXX",
 			"source" : "C:/Users/AyanMR/CLionProjects/homework1/main.cpp"
 		},
+		"CMakeFiles/homework1.dir/src/edit.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/AyanMR/CLionProjects/homework1/src/edit.cpp"
+		},
 		"CMakeFiles/homework1.dir/src/mainwindow.cpp.obj" : 
 		{
 			"language" : "CXX",
 			"source" : "C:/Users/AyanMR/CLionProjects/homework1/src/mainwindow.cpp"
+		},
+		"CMakeFiles/homework1.dir/src/ranking.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/AyanMR/CLionProjects/homework1/src/ranking.cpp"
 		}
 	}
 }
