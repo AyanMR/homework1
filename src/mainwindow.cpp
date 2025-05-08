@@ -14,13 +14,13 @@ MainWindow::MainWindow(QWidget *parent) : QWidget(parent), ui(new Ui::MainWindow
     connect(ui->pushButton, &QPushButton::clicked, this, [&]() {
         if (ui->radioButton->isChecked())
         {
-            Ranking *rankingWindow = new Ranking();
+            auto rankingWindow = new Ranking();
             rankingWindow->show();
             this->close();
         }
         else if (ui->radioButton_2->isChecked())
         {
-            Edit *editWindow = new Edit();
+            auto editWindow = new Edit();
             editWindow->show();
             this->close();
         }

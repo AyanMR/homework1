@@ -33,6 +33,11 @@
 			"language" : "CXX",
 			"source" : "C:/Users/AyanMR/CLionProjects/homework1/main.cpp"
 		},
+		"CMakeFiles/homework1.dir/src/FindnStudent.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/AyanMR/CLionProjects/homework1/src/FindnStudent.cpp"
+		},
 		"CMakeFiles/homework1.dir/src/edit.cpp.obj" : 
 		{
 			"language" : "CXX",

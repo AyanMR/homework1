@@ -3,18 +3,43 @@
 //
 
 // You may need to build the project (run Qt uic code generator) to get "ui_Ranking.h" resolved
-
+#pragma execution_character_set("utf-8")
 #include "ranking.h"
 #include "ui_Ranking.h"
-
+#include "FindnStudent.h"
+#include <memory>
 
 Ranking::Ranking(QWidget *parent) : QWidget(parent), ui(new Ui::Ranking)
 {
     ui->setupUi(this);
     connect(ui->pushButton_2, &QPushButton::clicked, this, [&]() {
-        MainWindow *mainWindow = new MainWindow();
+        auto mainWindow = new MainWindow();
         mainWindow->show();
         this->close();
+    });
+    connect(ui->pushButton, &QPushButton::clicked, this, [&]() {
+        bool ok;
+        int n = ui->textEdit->toPlainText().toInt(&ok);
+        if (!ok || n <= 0)
+            return;
+        QString dbPath = QDir::currentPath() + "/db/student.db";
+        std::vector<student> students = findn(dbPath, n);
+        auto model = new QStandardItemModel(this);
+        QStringList headers;
+        headers << QString::fromUtf8("学号") << QString::fromUtf8("姓名") << QString::fromUtf8("班级") <<
+                QString::fromUtf8("分数");
+        model->setColumnCount(4);
+        model->setHorizontalHeaderLabels(headers);
+        for (const auto &s: students)
+        {
+            QList<QStandardItem *> row;
+            row << new QStandardItem(QString::number(s.id))
+                    << new QStandardItem(s.name)
+                    << new QStandardItem(QString::number(s.classid))
+                    << new QStandardItem(QString::number(s.score));
+            model->appendRow(row);
+        }
+        ui->tableView->setModel(model);
     });
 }
 

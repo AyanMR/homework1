@@ -14,8 +14,10 @@
 #include <QtWidgets/QGridLayout>
 #include <QtWidgets/QGroupBox>
 #include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QHeaderView>
 #include <QtWidgets/QPushButton>
 #include <QtWidgets/QSpacerItem>
+#include <QtWidgets/QTableView>
 #include <QtWidgets/QTextEdit>
 #include <QtWidgets/QWidget>
 
@@ -32,6 +34,7 @@ public:
     QPushButton *pushButton;
     QSpacerItem *horizontalSpacer;
     QPushButton *pushButton_2;
+    QTableView *tableView;
 
     void setupUi(QWidget *Ranking)
     {
@@ -79,6 +82,9 @@ public:
 
         gridLayout->addWidget(pushButton_2, 1, 2, 1, 1);
 
+        tableView = new QTableView(Ranking);
+        tableView->setObjectName("tableView");
+        tableView->setGeometry(QRect(20, 30, 681, 401));
 
         retranslateUi(Ranking);
 

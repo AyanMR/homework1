@@ -7,3 +7,5 @@ build CMakeFiles\homework1.dir\src\ranking.cpp.obj: dyndep
 
 build CMakeFiles\homework1.dir\src\edit.cpp.obj: dyndep
 
+build CMakeFiles\homework1.dir\src\FindnStudent.cpp.obj: dyndep
+

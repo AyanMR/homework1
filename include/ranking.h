@@ -12,6 +12,10 @@
 #include <QSqlQuery>
 #include <QPushButton>
 #include <QIcon>
+#include <QStandardItemModel>
+#include <QDir>
+#include "FindnStudent.h"
+#include <memory>
 
 
 QT_BEGIN_NAMESPACE

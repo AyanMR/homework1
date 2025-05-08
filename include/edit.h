@@ -10,6 +10,7 @@
 #include <QSqlDatabase>
 #include <QSqlError>
 #include <QSqlQuery>
+#include <memory>
 
 
 QT_BEGIN_NAMESPACE

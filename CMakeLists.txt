@@ -37,6 +37,8 @@ add_executable(homework1 WIN32 main.cpp
         src/edit.cpp
         include/edit.h
         form/edit.ui
+        src/FindnStudent.cpp
+        include/FindnStudent.h
 )
 add_link_options(homework1 PRIVATE -mwindows)
 

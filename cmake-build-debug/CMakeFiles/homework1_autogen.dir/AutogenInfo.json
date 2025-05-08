@@ -325,6 +325,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/AyanMR/CLionProjects/homework1/include/FindnStudent.h",
+			"MU",
+			"6YEA5652QU/moc_FindnStudent.cpp",
+			null
+		],
+		[
 			"C:/Users/AyanMR/CLionProjects/homework1/include/edit.h",
 			"MU",
 			"6YEA5652QU/moc_edit.cpp",
@@ -408,6 +414,11 @@
 	"SOURCES" : 
 	[
 		[ "C:/Users/AyanMR/CLionProjects/homework1/main.cpp", "MU", null ],
+		[
+			"C:/Users/AyanMR/CLionProjects/homework1/src/FindnStudent.cpp",
+			"MU",
+			null
+		],
 		[ "C:/Users/AyanMR/CLionProjects/homework1/src/edit.cpp", "MU", null ],
 		[
 			"C:/Users/AyanMR/CLionProjects/homework1/src/mainwindow.cpp",

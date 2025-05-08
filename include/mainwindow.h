@@ -10,6 +10,7 @@
 #include "ranking.h"
 #include <QPushButton>
 #include <QIcon>
+#include <memory>
 
 QT_BEGIN_NAMESPACE
 

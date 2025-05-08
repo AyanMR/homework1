@@ -359,6 +359,11 @@
 	"SETTINGS_FILE" : "C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/main.cpp_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/Users/AyanMR/CLionProjects/homework1/src/FindnStudent.cpp",
+			"MU",
+			null
+		],
 		[ "C:/Users/AyanMR/CLionProjects/homework1/src/edit.cpp", "MU", null ],
 		[
 			"C:/Users/AyanMR/CLionProjects/homework1/src/mainwindow.cpp",
