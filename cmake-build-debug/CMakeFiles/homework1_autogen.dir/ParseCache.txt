@@ -813,3 +813,7 @@ C:/Users/AyanMR/CLionProjects/homework1/src/edit.cpp
  uic:ui_Edit.h
 C:/Users/AyanMR/CLionProjects/homework1/include/FindnStudent.h
 C:/Users/AyanMR/CLionProjects/homework1/src/FindnStudent.cpp
+C:/Users/AyanMR/CLionProjects/homework1/include/sort.h
+C:/Users/AyanMR/CLionProjects/homework1/src/sort.cpp
+C:/Users/AyanMR/CLionProjects/homework1/include/getStudent.h
+C:/Users/AyanMR/CLionProjects/homework1/src/getStudent.cpp

@@ -366,11 +366,17 @@
 		],
 		[ "C:/Users/AyanMR/CLionProjects/homework1/src/edit.cpp", "MU", null ],
 		[
+			"C:/Users/AyanMR/CLionProjects/homework1/src/getStudent.cpp",
+			"MU",
+			null
+		],
+		[
 			"C:/Users/AyanMR/CLionProjects/homework1/src/mainwindow.cpp",
 			"MU",
 			null
 		],
-		[ "C:/Users/AyanMR/CLionProjects/homework1/src/ranking.cpp", "MU", null ]
+		[ "C:/Users/AyanMR/CLionProjects/homework1/src/ranking.cpp", "MU", null ],
+		[ "C:/Users/AyanMR/CLionProjects/homework1/src/sort.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [ "C:/Users/AyanMR/CLionProjects/homework1/form" ],

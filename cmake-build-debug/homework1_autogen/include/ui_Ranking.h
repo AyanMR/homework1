@@ -84,6 +84,7 @@ public:
 
         tableView = new QTableView(Ranking);
         tableView->setObjectName("tableView");
+        tableView->setEnabled(false);
         tableView->setGeometry(QRect(20, 30, 681, 401));
 
         retranslateUi(Ranking);

@@ -58,7 +58,7 @@ public:
     {
         MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "JXUFE\346\210\220\347\273\251\347\263\273\347\273\237", nullptr));
         radioButton->setText(QCoreApplication::translate("MainWindow", "\346\216\222\350\241\214\346\246\234", nullptr));
-        radioButton_2->setText(QCoreApplication::translate("MainWindow", "\344\277\256\346\224\271\346\210\220\347\273\251", nullptr));
+        radioButton_2->setText(QCoreApplication::translate("MainWindow", "\344\277\256\346\224\271\344\270\216\346\237\245\350\257\242\346\210\220\347\273\251", nullptr));
         pushButton->setText(QCoreApplication::translate("MainWindow", "\347\241\256\345\256\232", nullptr));
     } // retranslateUi
 

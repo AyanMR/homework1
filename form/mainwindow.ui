@@ -24,7 +24,7 @@
             <item>
                 <widget class="QRadioButton" name="radioButton_2">
                     <property name="text">
-                        <string>修改成绩</string>
+                        <string>修改与查询成绩</string>
                     </property>
                 </widget>
             </item>

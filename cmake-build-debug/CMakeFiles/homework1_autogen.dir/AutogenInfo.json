@@ -337,6 +337,12 @@
 			null
 		],
 		[
+			"C:/Users/AyanMR/CLionProjects/homework1/include/getStudent.h",
+			"MU",
+			"6YEA5652QU/moc_getStudent.cpp",
+			null
+		],
+		[
 			"C:/Users/AyanMR/CLionProjects/homework1/include/mainwindow.h",
 			"MU",
 			"6YEA5652QU/moc_mainwindow.cpp",
@@ -346,6 +352,12 @@
 			"C:/Users/AyanMR/CLionProjects/homework1/include/ranking.h",
 			"MU",
 			"6YEA5652QU/moc_ranking.cpp",
+			null
+		],
+		[
+			"C:/Users/AyanMR/CLionProjects/homework1/include/sort.h",
+			"MU",
+			"6YEA5652QU/moc_sort.cpp",
 			null
 		]
 	],
@@ -421,11 +433,17 @@
 		],
 		[ "C:/Users/AyanMR/CLionProjects/homework1/src/edit.cpp", "MU", null ],
 		[
+			"C:/Users/AyanMR/CLionProjects/homework1/src/getStudent.cpp",
+			"MU",
+			null
+		],
+		[
 			"C:/Users/AyanMR/CLionProjects/homework1/src/mainwindow.cpp",
 			"MU",
 			null
 		],
-		[ "C:/Users/AyanMR/CLionProjects/homework1/src/ranking.cpp", "MU", null ]
+		[ "C:/Users/AyanMR/CLionProjects/homework1/src/ranking.cpp", "MU", null ],
+		[ "C:/Users/AyanMR/CLionProjects/homework1/src/sort.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [ "C:/Users/AyanMR/CLionProjects/homework1/form" ],

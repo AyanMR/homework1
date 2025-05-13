@@ -428,14 +428,18 @@ homework1_autogen/timestamp: \
 	C:/Users/AyanMR/CLionProjects/homework1/cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake \
 	C:/Users/AyanMR/CLionProjects/homework1/include/FindnStudent.h \
 	C:/Users/AyanMR/CLionProjects/homework1/include/edit.h \
+	C:/Users/AyanMR/CLionProjects/homework1/include/getStudent.h \
 	C:/Users/AyanMR/CLionProjects/homework1/include/mainwindow.h \
 	C:/Users/AyanMR/CLionProjects/homework1/include/ranking.h \
+	C:/Users/AyanMR/CLionProjects/homework1/include/sort.h \
 	C:/Users/AyanMR/CLionProjects/homework1/main.cpp \
 	C:/Users/AyanMR/CLionProjects/homework1/resource/resources.qrc \
 	C:/Users/AyanMR/CLionProjects/homework1/src/FindnStudent.cpp \
 	C:/Users/AyanMR/CLionProjects/homework1/src/edit.cpp \
+	C:/Users/AyanMR/CLionProjects/homework1/src/getStudent.cpp \
 	C:/Users/AyanMR/CLionProjects/homework1/src/mainwindow.cpp \
 	C:/Users/AyanMR/CLionProjects/homework1/src/ranking.cpp \
+	C:/Users/AyanMR/CLionProjects/homework1/src/sort.cpp \
 	C:/Users/AyanMR/CLionProjects/homework1/form/edit.ui \
 	C:/Users/AyanMR/CLionProjects/homework1/form/mainwindow.ui \
 	C:/Users/AyanMR/CLionProjects/homework1/form/ranking.ui \

@@ -15,17 +15,24 @@ Ranking::Ranking(QWidget *parent) : QWidget(parent), ui(new Ui::Ranking)
     connect(ui->pushButton_2, &QPushButton::clicked, this, [&]() {
         auto mainWindow = new MainWindow();
         mainWindow->show();
+        this->setAttribute(Qt::WA_DeleteOnClose);
         this->close();
     });
     connect(ui->pushButton, &QPushButton::clicked, this, [&]() {
-        bool ok;
-        int n = ui->textEdit->toPlainText().toInt(&ok);
-        if (!ok || n <= 0)
+        bool flag;
+        auto n = ui->textEdit->toPlainText().toLongLong(&flag);
+        if (!flag || n <= 0)
             return;
-        QString dbPath = QDir::currentPath() + "/db/student.db";
+        QString dbPath = QDir::currentPath() + "/../db/students.db";
         std::vector<student> students = findn(dbPath, n);
+        for (auto &i: students)
+        {
+            qDebug() << i.id << i.name << i.classid << i.score;
+        }
         auto model = new QStandardItemModel(this);
         QStringList headers;
+        ui->tableView->setModel(model);
+        ui->tableView->horizontalHeader()->setSectionResizeMode(QHeaderView::Stretch);
         headers << QString::fromUtf8("学号") << QString::fromUtf8("姓名") << QString::fromUtf8("班级") <<
                 QString::fromUtf8("分数");
         model->setColumnCount(4);

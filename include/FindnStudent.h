@@ -17,20 +17,15 @@
 class student
 {
 public:
-    int id;
+    long long id;
     QString name;
-    int classid, score;
-
-    student(int id, QString name, int classid, int score)
+    long long classid, score;
+    student(long long id, QString name, long long classid, long long score)
         : id(id), name(std::move(name)), classid(classid), score(score) {}
-
     student(): id(0), name(""), classid(0), score(0) {}
     ~student() {}
 };
 
-std::vector<student> findn(const QString &dbPath, int n);
-
-void sorts(std::vector<student> &vecs, int left, int right);
-
+std::vector<student> findn(QString &dbPath, int n);
 
 #endif //FINDNSTUDENT_H

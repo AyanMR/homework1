@@ -9,3 +9,7 @@ build CMakeFiles\homework1.dir\src\edit.cpp.obj: dyndep
 
 build CMakeFiles\homework1.dir\src\FindnStudent.cpp.obj: dyndep
 
+build CMakeFiles\homework1.dir\src\sort.cpp.obj: dyndep
+
+build CMakeFiles\homework1.dir\src\getStudent.cpp.obj: dyndep
+

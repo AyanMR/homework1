@@ -93,6 +93,24 @@ build CMakeFiles\main.cpp.dir\src\edit.cpp.obj: CXX_COMPILER__main.2ecpp_scanned
   TARGET_PDB = main.cpp.pdb
   dyndep = CMakeFiles/main.cpp.dir/CXX.dd
 
+build CMakeFiles\main.cpp.dir\src\getStudent.cpp.obj.ddi: CXX_SCAN__main.2ecpp_Debug C$:\Users\AyanMR\CLionProjects\homework1\src\getStudent.cpp || cmake_object_order_depends_target_main.cpp
+  DEP_FILE = CMakeFiles\main.cpp.dir\src\getStudent.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\main.cpp.dir\src\getStudent.cpp.obj.ddi
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\main.cpp_autogen\include -external:W0
+  OBJ_FILE = CMakeFiles\main.cpp.dir\src\getStudent.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\main.cpp.dir\src\getStudent.cpp.obj.ddi.i
+
+build CMakeFiles\main.cpp.dir\src\getStudent.cpp.obj: CXX_COMPILER__main.2ecpp_scanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\src\getStudent.cpp | CMakeFiles\main.cpp.dir\src\getStudent.cpp.obj.modmap || cmake_object_order_depends_target_main.cpp CMakeFiles\main.cpp.dir\CXX.dd
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\main.cpp.dir\src\getStudent.cpp.obj.modmap
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\main.cpp_autogen\include -external:W0
+  OBJECT_DIR = CMakeFiles\main.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\main.cpp.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\main.cpp.dir\
+  TARGET_PDB = main.cpp.pdb
+  dyndep = CMakeFiles/main.cpp.dir/CXX.dd
+
 build CMakeFiles\main.cpp.dir\src\mainwindow.cpp.obj.ddi: CXX_SCAN__main.2ecpp_Debug C$:\Users\AyanMR\CLionProjects\homework1\src\mainwindow.cpp || cmake_object_order_depends_target_main.cpp
   DEP_FILE = CMakeFiles\main.cpp.dir\src\mainwindow.cpp.obj.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles\main.cpp.dir\src\mainwindow.cpp.obj.ddi
@@ -129,6 +147,24 @@ build CMakeFiles\main.cpp.dir\src\ranking.cpp.obj: CXX_COMPILER__main.2ecpp_scan
   TARGET_PDB = main.cpp.pdb
   dyndep = CMakeFiles/main.cpp.dir/CXX.dd
 
+build CMakeFiles\main.cpp.dir\src\sort.cpp.obj.ddi: CXX_SCAN__main.2ecpp_Debug C$:\Users\AyanMR\CLionProjects\homework1\src\sort.cpp || cmake_object_order_depends_target_main.cpp
+  DEP_FILE = CMakeFiles\main.cpp.dir\src\sort.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\main.cpp.dir\src\sort.cpp.obj.ddi
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\main.cpp_autogen\include -external:W0
+  OBJ_FILE = CMakeFiles\main.cpp.dir\src\sort.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\main.cpp.dir\src\sort.cpp.obj.ddi.i
+
+build CMakeFiles\main.cpp.dir\src\sort.cpp.obj: CXX_COMPILER__main.2ecpp_scanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\src\sort.cpp | CMakeFiles\main.cpp.dir\src\sort.cpp.obj.modmap || cmake_object_order_depends_target_main.cpp CMakeFiles\main.cpp.dir\CXX.dd
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\main.cpp.dir\src\sort.cpp.obj.modmap
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\main.cpp_autogen\include -external:W0
+  OBJECT_DIR = CMakeFiles\main.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\main.cpp.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\main.cpp.dir\
+  TARGET_PDB = main.cpp.pdb
+  dyndep = CMakeFiles/main.cpp.dir/CXX.dd
+
 build CMakeFiles\main.cpp.dir\resource\logo.rc.res: RC_COMPILER__main.2ecpp_unscanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\resource\logo.rc || cmake_object_order_depends_target_main.cpp
   DEP_FILE = CMakeFiles\main.cpp.dir\resource\logo.rc.res.d
   FLAGS = -DWIN32 -D_DEBUG
@@ -146,7 +182,7 @@ build CMakeFiles\main.cpp.dir\main.cpp_autogen\6WJNPILU4A\qrc_resources.cpp.obj:
   TARGET_COMPILE_PDB = CMakeFiles\main.cpp.dir\
   TARGET_PDB = main.cpp.pdb
 
-build CMakeFiles\main.cpp.dir\CXX.dd | C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\CMakeFiles\main.cpp.dir\CXXModules.json CMakeFiles\main.cpp.dir\src\FindnStudent.cpp.obj.modmap CMakeFiles\main.cpp.dir\src\edit.cpp.obj.modmap CMakeFiles\main.cpp.dir\src\mainwindow.cpp.obj.modmap CMakeFiles\main.cpp.dir\src\ranking.cpp.obj.modmap: CXX_DYNDEP__main.2ecpp_Debug CMakeFiles\main.cpp.dir\src\FindnStudent.cpp.obj.ddi CMakeFiles\main.cpp.dir\src\edit.cpp.obj.ddi CMakeFiles\main.cpp.dir\src\mainwindow.cpp.obj.ddi CMakeFiles\main.cpp.dir\src\ranking.cpp.obj.ddi | C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\CMakeFiles\main.cpp.dir\CXXDependInfo.json
+build CMakeFiles\main.cpp.dir\CXX.dd | C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\CMakeFiles\main.cpp.dir\CXXModules.json CMakeFiles\main.cpp.dir\src\FindnStudent.cpp.obj.modmap CMakeFiles\main.cpp.dir\src\edit.cpp.obj.modmap CMakeFiles\main.cpp.dir\src\getStudent.cpp.obj.modmap CMakeFiles\main.cpp.dir\src\mainwindow.cpp.obj.modmap CMakeFiles\main.cpp.dir\src\ranking.cpp.obj.modmap CMakeFiles\main.cpp.dir\src\sort.cpp.obj.modmap: CXX_DYNDEP__main.2ecpp_Debug CMakeFiles\main.cpp.dir\src\FindnStudent.cpp.obj.ddi CMakeFiles\main.cpp.dir\src\edit.cpp.obj.ddi CMakeFiles\main.cpp.dir\src\getStudent.cpp.obj.ddi CMakeFiles\main.cpp.dir\src\mainwindow.cpp.obj.ddi CMakeFiles\main.cpp.dir\src\ranking.cpp.obj.ddi CMakeFiles\main.cpp.dir\src\sort.cpp.obj.ddi | C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\CMakeFiles\main.cpp.dir\CXXDependInfo.json
 
 
 # =============================================================================
@@ -156,7 +192,7 @@ build CMakeFiles\main.cpp.dir\CXX.dd | C$:\Users\AyanMR\CLionProjects\homework1\
 #############################################
 # Link the executable main.cpp.exe
 
-build main.cpp.exe: CXX_EXECUTABLE_LINKER__main.2ecpp_Debug CMakeFiles\main.cpp.dir\main.cpp_autogen\mocs_compilation.cpp.obj CMakeFiles\main.cpp.dir\src\FindnStudent.cpp.obj CMakeFiles\main.cpp.dir\src\edit.cpp.obj CMakeFiles\main.cpp.dir\src\mainwindow.cpp.obj CMakeFiles\main.cpp.dir\src\ranking.cpp.obj CMakeFiles\main.cpp.dir\resource\logo.rc.res CMakeFiles\main.cpp.dir\main.cpp_autogen\6WJNPILU4A\qrc_resources.cpp.obj || main.cpp_autogen main.cpp_autogen_timestamp_deps
+build main.cpp.exe: CXX_EXECUTABLE_LINKER__main.2ecpp_Debug CMakeFiles\main.cpp.dir\main.cpp_autogen\mocs_compilation.cpp.obj CMakeFiles\main.cpp.dir\src\FindnStudent.cpp.obj CMakeFiles\main.cpp.dir\src\edit.cpp.obj CMakeFiles\main.cpp.dir\src\getStudent.cpp.obj CMakeFiles\main.cpp.dir\src\mainwindow.cpp.obj CMakeFiles\main.cpp.dir\src\ranking.cpp.obj CMakeFiles\main.cpp.dir\src\sort.cpp.obj CMakeFiles\main.cpp.dir\resource\logo.rc.res CMakeFiles\main.cpp.dir\main.cpp_autogen\6WJNPILU4A\qrc_resources.cpp.obj || main.cpp_autogen main.cpp_autogen_timestamp_deps
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
@@ -296,6 +332,46 @@ build CMakeFiles\homework1.dir\src\FindnStudent.cpp.obj: CXX_COMPILER__homework1
   TARGET_PDB = homework1.pdb
   dyndep = CMakeFiles/homework1.dir/CXX.dd
 
+build CMakeFiles\homework1.dir\src\sort.cpp.obj.ddi: CXX_SCAN__homework1_Debug C$:\Users\AyanMR\CLionProjects\homework1\src\sort.cpp || cmake_object_order_depends_target_homework1
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\homework1.dir\src\sort.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\homework1.dir\src\sort.cpp.obj.ddi
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi -Zc:__cplusplus -permissive- -utf-8
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:IC:\Qt\6.5.3\msvc2019_64\include\QtSql -external:W0
+  OBJ_FILE = CMakeFiles\homework1.dir\src\sort.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\homework1.dir\src\sort.cpp.obj.ddi.i
+
+build CMakeFiles\homework1.dir\src\sort.cpp.obj: CXX_COMPILER__homework1_scanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\src\sort.cpp | CMakeFiles\homework1.dir\src\sort.cpp.obj.modmap || cmake_object_order_depends_target_homework1 CMakeFiles\homework1.dir\CXX.dd
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\homework1.dir\src\sort.cpp.obj.modmap
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi -Zc:__cplusplus -permissive- -utf-8
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:IC:\Qt\6.5.3\msvc2019_64\include\QtSql -external:W0
+  OBJECT_DIR = CMakeFiles\homework1.dir
+  OBJECT_FILE_DIR = CMakeFiles\homework1.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\homework1.dir\
+  TARGET_PDB = homework1.pdb
+  dyndep = CMakeFiles/homework1.dir/CXX.dd
+
+build CMakeFiles\homework1.dir\src\getStudent.cpp.obj.ddi: CXX_SCAN__homework1_Debug C$:\Users\AyanMR\CLionProjects\homework1\src\getStudent.cpp || cmake_object_order_depends_target_homework1
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\homework1.dir\src\getStudent.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\homework1.dir\src\getStudent.cpp.obj.ddi
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi -Zc:__cplusplus -permissive- -utf-8
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:IC:\Qt\6.5.3\msvc2019_64\include\QtSql -external:W0
+  OBJ_FILE = CMakeFiles\homework1.dir\src\getStudent.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\homework1.dir\src\getStudent.cpp.obj.ddi.i
+
+build CMakeFiles\homework1.dir\src\getStudent.cpp.obj: CXX_COMPILER__homework1_scanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\src\getStudent.cpp | CMakeFiles\homework1.dir\src\getStudent.cpp.obj.modmap || cmake_object_order_depends_target_homework1 CMakeFiles\homework1.dir\CXX.dd
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\homework1.dir\src\getStudent.cpp.obj.modmap
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi -Zc:__cplusplus -permissive- -utf-8
+  INCLUDES = -IC:\Users\AyanMR\CLionProjects\homework1\include -external:IC:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\include -external:IC:\Qt\6.5.3\msvc2019_64\include\QtCore -external:IC:\Qt\6.5.3\msvc2019_64\include -external:IC:\Qt\6.5.3\msvc2019_64\mkspecs\win32-msvc -external:IC:\Qt\6.5.3\msvc2019_64\include\QtGui -external:IC:\Qt\6.5.3\msvc2019_64\include\QtWidgets -external:IC:\Qt\6.5.3\msvc2019_64\include\QtSql -external:W0
+  OBJECT_DIR = CMakeFiles\homework1.dir
+  OBJECT_FILE_DIR = CMakeFiles\homework1.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\homework1.dir\
+  TARGET_PDB = homework1.pdb
+  dyndep = CMakeFiles/homework1.dir/CXX.dd
+
 build CMakeFiles\homework1.dir\homework1_autogen\6WJNPILU4A\qrc_resources.cpp.obj: CXX_COMPILER__homework1_unscanned_Debug C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\homework1_autogen\6WJNPILU4A\qrc_resources.cpp || cmake_object_order_depends_target_homework1
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi -Zc:__cplusplus -permissive- -utf-8
@@ -305,7 +381,7 @@ build CMakeFiles\homework1.dir\homework1_autogen\6WJNPILU4A\qrc_resources.cpp.ob
   TARGET_COMPILE_PDB = CMakeFiles\homework1.dir\
   TARGET_PDB = homework1.pdb
 
-build CMakeFiles\homework1.dir\CXX.dd | C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\CMakeFiles\homework1.dir\CXXModules.json CMakeFiles\homework1.dir\main.cpp.obj.modmap CMakeFiles\homework1.dir\src\mainwindow.cpp.obj.modmap CMakeFiles\homework1.dir\src\ranking.cpp.obj.modmap CMakeFiles\homework1.dir\src\edit.cpp.obj.modmap CMakeFiles\homework1.dir\src\FindnStudent.cpp.obj.modmap: CXX_DYNDEP__homework1_Debug CMakeFiles\homework1.dir\main.cpp.obj.ddi CMakeFiles\homework1.dir\src\mainwindow.cpp.obj.ddi CMakeFiles\homework1.dir\src\ranking.cpp.obj.ddi CMakeFiles\homework1.dir\src\edit.cpp.obj.ddi CMakeFiles\homework1.dir\src\FindnStudent.cpp.obj.ddi | C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\CMakeFiles\homework1.dir\CXXDependInfo.json
+build CMakeFiles\homework1.dir\CXX.dd | C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\CMakeFiles\homework1.dir\CXXModules.json CMakeFiles\homework1.dir\main.cpp.obj.modmap CMakeFiles\homework1.dir\src\mainwindow.cpp.obj.modmap CMakeFiles\homework1.dir\src\ranking.cpp.obj.modmap CMakeFiles\homework1.dir\src\edit.cpp.obj.modmap CMakeFiles\homework1.dir\src\FindnStudent.cpp.obj.modmap CMakeFiles\homework1.dir\src\sort.cpp.obj.modmap CMakeFiles\homework1.dir\src\getStudent.cpp.obj.modmap: CXX_DYNDEP__homework1_Debug CMakeFiles\homework1.dir\main.cpp.obj.ddi CMakeFiles\homework1.dir\src\mainwindow.cpp.obj.ddi CMakeFiles\homework1.dir\src\ranking.cpp.obj.ddi CMakeFiles\homework1.dir\src\edit.cpp.obj.ddi CMakeFiles\homework1.dir\src\FindnStudent.cpp.obj.ddi CMakeFiles\homework1.dir\src\sort.cpp.obj.ddi CMakeFiles\homework1.dir\src\getStudent.cpp.obj.ddi | C$:\Users\AyanMR\CLionProjects\homework1\cmake-build-debug\CMakeFiles\homework1.dir\CXXDependInfo.json
 
 
 # =============================================================================
@@ -315,7 +391,7 @@ build CMakeFiles\homework1.dir\CXX.dd | C$:\Users\AyanMR\CLionProjects\homework1
 #############################################
 # Link the executable homework1.exe
 
-build homework1.exe: CXX_EXECUTABLE_LINKER__homework1_Debug CMakeFiles\homework1.dir\homework1_autogen\mocs_compilation.cpp.obj CMakeFiles\homework1.dir\main.cpp.obj CMakeFiles\homework1.dir\src\mainwindow.cpp.obj CMakeFiles\homework1.dir\resource\logo.rc.res CMakeFiles\homework1.dir\src\ranking.cpp.obj CMakeFiles\homework1.dir\src\edit.cpp.obj CMakeFiles\homework1.dir\src\FindnStudent.cpp.obj CMakeFiles\homework1.dir\homework1_autogen\6WJNPILU4A\qrc_resources.cpp.obj | C$:\Qt\6.5.3\msvc2019_64\lib\Qt6Widgetsd.lib C$:\Qt\6.5.3\msvc2019_64\lib\Qt6Guid.lib C$:\Qt\6.5.3\msvc2019_64\lib\Qt6Sqld.lib C$:\Qt\6.5.3\msvc2019_64\lib\Qt6Cored.lib C$:\Qt\6.5.3\msvc2019_64\lib\Qt6EntryPointd.lib || homework1_autogen homework1_autogen_timestamp_deps
+build homework1.exe: CXX_EXECUTABLE_LINKER__homework1_Debug CMakeFiles\homework1.dir\homework1_autogen\mocs_compilation.cpp.obj CMakeFiles\homework1.dir\main.cpp.obj CMakeFiles\homework1.dir\src\mainwindow.cpp.obj CMakeFiles\homework1.dir\resource\logo.rc.res CMakeFiles\homework1.dir\src\ranking.cpp.obj CMakeFiles\homework1.dir\src\edit.cpp.obj CMakeFiles\homework1.dir\src\FindnStudent.cpp.obj CMakeFiles\homework1.dir\src\sort.cpp.obj CMakeFiles\homework1.dir\src\getStudent.cpp.obj CMakeFiles\homework1.dir\homework1_autogen\6WJNPILU4A\qrc_resources.cpp.obj | C$:\Qt\6.5.3\msvc2019_64\lib\Qt6Widgetsd.lib C$:\Qt\6.5.3\msvc2019_64\lib\Qt6Guid.lib C$:\Qt\6.5.3\msvc2019_64\lib\Qt6Sqld.lib C$:\Qt\6.5.3\msvc2019_64\lib\Qt6Cored.lib C$:\Qt\6.5.3\msvc2019_64\lib\Qt6EntryPointd.lib || homework1_autogen homework1_autogen_timestamp_deps
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:windows
   LINK_LIBRARIES = C:\Qt\6.5.3\msvc2019_64\lib\Qt6Widgetsd.lib  C:\Qt\6.5.3\msvc2019_64\lib\Qt6Guid.lib  d3d11.lib  dxgi.lib  dxguid.lib  C:\Qt\6.5.3\msvc2019_64\lib\Qt6Sqld.lib  C:\Qt\6.5.3\msvc2019_64\lib\Qt6Cored.lib  mpr.lib  userenv.lib  C:\Qt\6.5.3\msvc2019_64\lib\Qt6EntryPointd.lib  shell32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib

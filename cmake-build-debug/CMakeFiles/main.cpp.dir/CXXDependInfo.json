@@ -32,6 +32,11 @@
 			"language" : "CXX",
 			"source" : "C:/Users/AyanMR/CLionProjects/homework1/src/edit.cpp"
 		},
+		"CMakeFiles/main.cpp.dir/src/getStudent.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/AyanMR/CLionProjects/homework1/src/getStudent.cpp"
+		},
 		"CMakeFiles/main.cpp.dir/src/mainwindow.cpp.obj" : 
 		{
 			"language" : "CXX",
@@ -41,6 +46,11 @@
 		{
 			"language" : "CXX",
 			"source" : "C:/Users/AyanMR/CLionProjects/homework1/src/ranking.cpp"
+		},
+		"CMakeFiles/main.cpp.dir/src/sort.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/AyanMR/CLionProjects/homework1/src/sort.cpp"
 		}
 	}
 }
